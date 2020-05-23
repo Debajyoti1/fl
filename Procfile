@@ -1,0 +1,1 @@
+web: gunircon wsgi:app
